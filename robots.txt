@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://DiogoAlexandreOliveiraDaSilva.github.io/sitemap.xml
+Sitemap: https://DiogoAlexandreOliveiraDaSilva.github.io\blog/sitemap.xml
