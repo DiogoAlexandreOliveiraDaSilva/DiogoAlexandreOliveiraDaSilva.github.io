@@ -1,7 +1,7 @@
 ---
 layout: post
 title: McEliece Weight Lifting - Hack.lu 2024
-date: 2024-13-11 19:25:40
+date: 2024-11-13 19:25:41
 description: Writeup for a crypto CTF in Hack.lu 2024
 tags: crypto
 categories: ctf
