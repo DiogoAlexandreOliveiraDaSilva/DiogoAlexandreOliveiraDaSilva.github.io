@@ -10,5 +10,5 @@ profiles:
   - align: left
     image: xstf.png
     content: xstf.md
-    image_circular: true # crops the image to make it circular
+    image_circular: false # crops the image to make it circular
 ---
